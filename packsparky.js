@@ -10,13 +10,13 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = false //auto recording (true to on, false to off)
 
-global.Owner = ['917012984396']
-global.OwnerNumber = ['917012984396']
-global.ownertag = ['917012984396']
-global.BotName = "SPARKY BOT"
-global.packname = "SPARKY BOT"
-global.author = "By: Aswin"
-global.OwnerName = "Aswin Sparky"
+global.Owner = ['919207278115']
+global.OwnerNumber = ['919207278115']
+global.ownertag = ['919207278115']
+global.BotName = "ᴀɴɢᴇʟ ʙᴏᴛ"
+global.packname = "ᴀɴɢᴇʟ ʙᴏᴛ"
+global.author = "By: ᴊᴜɴᴀɪᴅ"
+global.OwnerName = "ᴊᴜɴᴀɪᴅ ᴀɴɢᴇʟ"
 global.BotSourceCode = "https://github.com/Sparkymon777/SPARKY-BOT"
 global.SupportGroupLink = "https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh"
 global.sessionName = "session"
@@ -31,7 +31,7 @@ global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://i.imgur.com/iaWuQRB.jpeg' }
 global.websitex = "https://github.com/Sparkymon777"
-global.lolhuman = "S P A R K Y"
+global.lolhuman = "ᴊ ᴜ ɴ ᴀ ɪ ᴅ"
 
 
 global.BotLogo = fs.readFileSync("./Assets/pic1.jpg")
